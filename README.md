@@ -2,7 +2,7 @@
 
 The objectives of this project are to provide a New Testament Greek Lexicon that:
 
-  - Is **free of copyright and licensing restrictions** (public domain / CC0), permitting the entire global Church to use and build on it without hindrance.
+  - Is **free of copyright and licensing restrictions** (CC BY-SA), permitting the entire global Church to use and build on it without hindrance.
   - Is **based on existing work** of excellent pedigree and academic repute.
   - Is **translated** into all the [Gateway Languages](https://unfoldingword.org/gateway) of the world, and any other language in which the Church desires to have a Greek lexicon.
 
