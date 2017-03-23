@@ -9,7 +9,7 @@ The objectives of this project are to provide a New Testament Greek Lexicon that
 
 ## Description
 
-The first version will be Abbott-Smith's Manual Greek Lexicon of the NT. This text is available from https://github.com/translatable-exegetical-tools/Abbott-Smith. The version above still contains some formatting errors and has not been completely proofread. 
+The first version will be Abbott-Smith's Manual Greek Lexicon of the NT. This text is available from https://github.com/translatable-exegetical-tools/Abbott-Smith. (This was completed in January 2017). 
 
 For the second version, we will finish cleaning up this A-S text and then release it as an exact representation, in digital form, of the A-S printed lexicon.
 
